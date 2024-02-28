@@ -1,0 +1,2 @@
+example_bio.json is an example of metadata returned from arXiv Atom feed.
+Please see https://info.arxiv.org/help/api/tou.html

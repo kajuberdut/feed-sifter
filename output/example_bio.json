@@ -1,0 +1,2087 @@
+{
+    "bozo": false,
+    "entries": [
+        {
+            "id": "oai:arXiv.org:2402.16854v1",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.16854",
+            "title": "Attention Based Molecule Generation via Hierarchical Variational Autoencoder",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Attention Based Molecule Generation via Hierarchical Variational Autoencoder"
+            },
+            "updated": "2024-02-28T05:07:50.334541+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.16854",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.16854v1 Announce Type: new \nAbstract: Molecule generation is a task made very difficult by the complex ways in which we represent molecules computationally. A common technique used in molecular generative modeling is to use SMILES strings with recurrent neural networks built into variational autoencoders - but these suffer from a myriad of issues: vanishing gradients, long-range forgetting, and invalid molecules. In this work, we show that by combining recurrent neural networks with convolutional networks in a hierarchical manner, we are able to both extract autoregressive information from SMILES strings while maintaining signal and long-range dependencies. This allows for generations with very high validity rates on the order of 95% when reconstructing known molecules. We also observe an average Tanimoto similarity of .6 between test set and reconstructed molecules, which suggests our method is able to map between SMILES strings and their learned representations in a more effective way than prior works using similar methods.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.16854v1 Announce Type: new \nAbstract: Molecule generation is a task made very difficult by the complex ways in which we represent molecules computationally. A common technique used in molecular generative modeling is to use SMILES strings with recurrent neural networks built into variational autoencoders - but these suffer from a myriad of issues: vanishing gradients, long-range forgetting, and invalid molecules. In this work, we show that by combining recurrent neural networks with convolutional networks in a hierarchical manner, we are able to both extract autoregressive information from SMILES strings while maintaining signal and long-range dependencies. This allows for generations with very high validity rates on the order of 95% when reconstructing known molecules. We also observe an average Tanimoto similarity of .6 between test set and reconstructed molecules, which suggests our method is able to map between SMILES strings and their learned representations in a more effective way than prior works using similar methods."
+            },
+            "tags": [
+                {
+                    "term": "q-bio.BM",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cs.LG",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "new",
+            "rights": "http://creativecommons.org/licenses/by/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Divahar Sivanesan"
+                }
+            ],
+            "author": "Divahar Sivanesan",
+            "author_detail": {
+                "name": "Divahar Sivanesan"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2402.16894v1",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.16894",
+            "title": "Topological Analysis of Mouse Brain Vasculature via 3D Light-sheet Microscopy Images",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Topological Analysis of Mouse Brain Vasculature via 3D Light-sheet Microscopy Images"
+            },
+            "updated": "2024-02-28T05:07:50.334447+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.16894",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.16894v1 Announce Type: new \nAbstract: Vascular networks play a crucial role in understanding brain functionalities. Brain integrity and function, neuronal activity and plasticity, which are crucial for learning, are actively modulated by their local environments, specifically vascular networks. With recent developments in high-resolution 3D light-sheet microscopy imaging together with tissue processing techniques, it becomes feasible to obtain and examine large-scale brain vasculature in mice. To establish a structural foundation for functional study, however, we need advanced image analysis and structural modeling methods.\n  Existing works use geometric features such as thickness, tortuosity, etc. However, geometric features cannot fully capture structural characteristics such as the richness of branches, connectivity, etc. In this paper, we study the morphology of brain vasculature through a topological lens. We extract topological features based on the theory of topological data analysis. Comparing of these robust and multi-scale topological structural features across different brain anatomical structures and between normal and obese populations sheds light on their promising future in studying neurological diseases.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.16894v1 Announce Type: new \nAbstract: Vascular networks play a crucial role in understanding brain functionalities. Brain integrity and function, neuronal activity and plasticity, which are crucial for learning, are actively modulated by their local environments, specifically vascular networks. With recent developments in high-resolution 3D light-sheet microscopy imaging together with tissue processing techniques, it becomes feasible to obtain and examine large-scale brain vasculature in mice. To establish a structural foundation for functional study, however, we need advanced image analysis and structural modeling methods.\n  Existing works use geometric features such as thickness, tortuosity, etc. However, geometric features cannot fully capture structural characteristics such as the richness of branches, connectivity, etc. In this paper, we study the morphology of brain vasculature through a topological lens. We extract topological features based on the theory of topological data analysis. Comparing of these robust and multi-scale topological structural features across different brain anatomical structures and between normal and obese populations sheds light on their promising future in studying neurological diseases."
+            },
+            "tags": [
+                {
+                    "term": "q-bio.NC",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "eess.IV",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "new",
+            "rights": "http://creativecommons.org/licenses/by/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Jiachen Yao, Nina Hagemann, Qiaojie Xiong, Jianxu Chen, Dirk M. Hermann, Chao Chen"
+                }
+            ],
+            "author": "Jiachen Yao, Nina Hagemann, Qiaojie Xiong, Jianxu Chen, Dirk M. Hermann, Chao Chen",
+            "author_detail": {
+                "name": "Jiachen Yao, Nina Hagemann, Qiaojie Xiong, Jianxu Chen, Dirk M. Hermann, Chao Chen"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2402.16901v1",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.16901",
+            "title": "FGBERT: Function-Driven Pre-trained Gene Language Model for Metagenomics",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "FGBERT: Function-Driven Pre-trained Gene Language Model for Metagenomics"
+            },
+            "updated": "2024-02-28T05:07:50.334261+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.16901",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.16901v1 Announce Type: new \nAbstract: Metagenomic data, comprising mixed multi-species genomes, are prevalent in diverse environments like oceans and soils, significantly impacting human health and ecological functions. However, current research relies on K-mer representations, limiting the capture of structurally relevant gene contexts. To address these limitations and further our understanding of complex relationships between metagenomic sequences and their functions, we introduce a protein-based gene representation as a context-aware and structure-relevant tokenizer. Our approach includes Masked Gene Modeling (MGM) for gene group-level pre-training, providing insights into inter-gene contextual information, and Triple Enhanced Metagenomic Contrastive Learning (TEM-CL) for gene-level pre-training to model gene sequence-function relationships. MGM and TEM-CL constitute our novel metagenomic language model {\\NAME}, pre-trained on 100 million metagenomic sequences. We demonstrate the superiority of our proposed {\\NAME} on eight datasets.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.16901v1 Announce Type: new \nAbstract: Metagenomic data, comprising mixed multi-species genomes, are prevalent in diverse environments like oceans and soils, significantly impacting human health and ecological functions. However, current research relies on K-mer representations, limiting the capture of structurally relevant gene contexts. To address these limitations and further our understanding of complex relationships between metagenomic sequences and their functions, we introduce a protein-based gene representation as a context-aware and structure-relevant tokenizer. Our approach includes Masked Gene Modeling (MGM) for gene group-level pre-training, providing insights into inter-gene contextual information, and Triple Enhanced Metagenomic Contrastive Learning (TEM-CL) for gene-level pre-training to model gene sequence-function relationships. MGM and TEM-CL constitute our novel metagenomic language model {\\NAME}, pre-trained on 100 million metagenomic sequences. We demonstrate the superiority of our proposed {\\NAME} on eight datasets."
+            },
+            "tags": [
+                {
+                    "term": "q-bio.GN",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cs.AI",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cs.LG",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "new",
+            "rights": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/"
+            },
+            "authors": [
+                {
+                    "name": "ChenRui Duan, Zelin Zang, Yongjie Xu, Hang He, Zihan Liu, Zijia Song, Ju-Sheng Zheng, Stan Z. Li"
+                }
+            ],
+            "author": "ChenRui Duan, Zelin Zang, Yongjie Xu, Hang He, Zihan Liu, Zijia Song, Ju-Sheng Zheng, Stan Z. Li",
+            "author_detail": {
+                "name": "ChenRui Duan, Zelin Zang, Yongjie Xu, Hang He, Zihan Liu, Zijia Song, Ju-Sheng Zheng, Stan Z. Li"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2402.17086v1",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.17086",
+            "title": "An optimal transport model for dynamical shapes, collective motion and cellular aggregates",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "An optimal transport model for dynamical shapes, collective motion and cellular aggregates"
+            },
+            "updated": "2024-02-28T05:07:50.334086+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.17086",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.17086v1 Announce Type: new \nAbstract: Many biological systems such as cell aggregates, tissues or bacterial colonies behave as unconventional systems of particles that are strongly constrained by volume exclusion and shape interactions. Understanding how these constraints lead to macroscopic self-organized structures is a fundamental question in e.g. developmental biology. To this end, various types of computational models have been developed: phase fields, cellular automata, vertex models, level-set, finite element simulations, etc. We introduce a new framework based on optimal transport theory to model particle systems with arbitrary dynamical shapes and deformability. Our method builds upon the pioneering work of Brenier on incompressible fluids and its recent applications to materials science. It lets us specify the shapes of individual cells and supports a wide range of interaction mechanisms, while automatically taking care of the volume exclusion constraint at an affordable numerical cost. We showcase the versatility of this approach by reproducing several classical systems in computational biology. Our Python code is freely available at: www.github.com/antoinediez/ICeShOT",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.17086v1 Announce Type: new \nAbstract: Many biological systems such as cell aggregates, tissues or bacterial colonies behave as unconventional systems of particles that are strongly constrained by volume exclusion and shape interactions. Understanding how these constraints lead to macroscopic self-organized structures is a fundamental question in e.g. developmental biology. To this end, various types of computational models have been developed: phase fields, cellular automata, vertex models, level-set, finite element simulations, etc. We introduce a new framework based on optimal transport theory to model particle systems with arbitrary dynamical shapes and deformability. Our method builds upon the pioneering work of Brenier on incompressible fluids and its recent applications to materials science. It lets us specify the shapes of individual cells and supports a wide range of interaction mechanisms, while automatically taking care of the volume exclusion constraint at an affordable numerical cost. We showcase the versatility of this approach by reproducing several classical systems in computational biology. Our Python code is freely available at: www.github.com/antoinediez/ICeShOT"
+            },
+            "tags": [
+                {
+                    "term": "q-bio.QM",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cs.NA",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "math.DS",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "math.NA",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "new",
+            "rights": "http://creativecommons.org/licenses/by/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Antoine Diez, Jean Feydy"
+                }
+            ],
+            "author": "Antoine Diez, Jean Feydy",
+            "author_detail": {
+                "name": "Antoine Diez, Jean Feydy"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2402.17153v1",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.17153",
+            "title": "Exact and efficient phylodynamic simulation from arbitrarily large populations",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Exact and efficient phylodynamic simulation from arbitrarily large populations"
+            },
+            "updated": "2024-02-28T05:07:50.333895+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.17153",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.17153v1 Announce Type: new \nAbstract: Many biological studies involve inferring the genealogical history of a sample of individuals from a large population and interpreting the reconstructed tree. Such an ascertained tree typically represents only a small part of a comprehensive population tree and is distorted by survivorship and sampling biases. Inferring evolutionary parameters from ascertained trees requires modeling both the underlying population dynamics and the ascertainment process. A crucial component of this phylodynamic modeling involves tree simulation, which is used to benchmark probabilistic inference methods. To simulate an ascertained tree, one must first simulate the full population tree and then prune unobserved lineages. Consequently, the computational cost is determined not by the size of the final simulated tree, but by the size of the population tree in which it is embedded. In most biological scenarios, simulations of the entire population are prohibitively expensive due to computational demands placed on lineages without sampled descendants. Here, we address this challenge by proving that, for any partially ascertained process from a general multi-type birth-death-mutation-sampling (BDMS) model, there exists an equivalent pure birth process (i.e., no death) with mutation and complete sampling. The final trees generated under these processes have exactly the same distribution. Leveraging this property, we propose a highly efficient algorithm for simulating trees under a general BDMS model. Our algorithm scales linearly with the size of the final simulated tree and is independent of the population size, enabling simulations from extremely large populations beyond the reach of current methods but essential for various biological applications. We anticipate that this unprecedented speedup will significantly advance the development of novel inference methods that require extensive training data.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.17153v1 Announce Type: new \nAbstract: Many biological studies involve inferring the genealogical history of a sample of individuals from a large population and interpreting the reconstructed tree. Such an ascertained tree typically represents only a small part of a comprehensive population tree and is distorted by survivorship and sampling biases. Inferring evolutionary parameters from ascertained trees requires modeling both the underlying population dynamics and the ascertainment process. A crucial component of this phylodynamic modeling involves tree simulation, which is used to benchmark probabilistic inference methods. To simulate an ascertained tree, one must first simulate the full population tree and then prune unobserved lineages. Consequently, the computational cost is determined not by the size of the final simulated tree, but by the size of the population tree in which it is embedded. In most biological scenarios, simulations of the entire population are prohibitively expensive due to computational demands placed on lineages without sampled descendants. Here, we address this challenge by proving that, for any partially ascertained process from a general multi-type birth-death-mutation-sampling (BDMS) model, there exists an equivalent pure birth process (i.e., no death) with mutation and complete sampling. The final trees generated under these processes have exactly the same distribution. Leveraging this property, we propose a highly efficient algorithm for simulating trees under a general BDMS model. Our algorithm scales linearly with the size of the final simulated tree and is independent of the population size, enabling simulations from extremely large populations beyond the reach of current methods but essential for various biological applications. We anticipate that this unprecedented speedup will significantly advance the development of novel inference methods that require extensive training data."
+            },
+            "tags": [
+                {
+                    "term": "q-bio.PE",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "new",
+            "rights": "http://creativecommons.org/licenses/by/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Michael Celentano, William S. DeWitt, Sebastian Prillo, Yun S. Song"
+                }
+            ],
+            "author": "Michael Celentano, William S. DeWitt, Sebastian Prillo, Yun S. Song",
+            "author_detail": {
+                "name": "Michael Celentano, William S. DeWitt, Sebastian Prillo, Yun S. Song"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2402.17182v1",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.17182",
+            "title": "Methylation Operation Wizard (MeOW): Identification of differentially methylated regions in long-read sequencing data",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Methylation Operation Wizard (MeOW): Identification of differentially methylated regions in long-read sequencing data"
+            },
+            "updated": "2024-02-28T05:07:50.333692+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.17182",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.17182v1 Announce Type: new \nAbstract: Long-read sequencing (LRS) is able to simultaneously capture information about both DNA sequence and modifications, such as CpG methylation in a single sequencing experiment. Here we present Methylation Operation Wizard (MeOW), a program to identify and prioritize differentially methylated regions (DMRs) genome-wide using LRS data. MeOW can be run using either a file containing counts of per-nucleotide methylated CpG sites or with a bam file containing modified base tags.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.17182v1 Announce Type: new \nAbstract: Long-read sequencing (LRS) is able to simultaneously capture information about both DNA sequence and modifications, such as CpG methylation in a single sequencing experiment. Here we present Methylation Operation Wizard (MeOW), a program to identify and prioritize differentially methylated regions (DMRs) genome-wide using LRS data. MeOW can be run using either a file containing counts of per-nucleotide methylated CpG sites or with a bam file containing modified base tags."
+            },
+            "tags": [
+                {
+                    "term": "q-bio.GN",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "q-bio.QM",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "new",
+            "rights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Miranda PG Zalusky, Danny E Miller"
+                }
+            ],
+            "author": "Miranda PG Zalusky, Danny E Miller",
+            "author_detail": {
+                "name": "Miranda PG Zalusky, Danny E Miller"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2402.17209v1",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.17209",
+            "title": "Deep Learning-based Kinetic Analysis in Paper-based Analytical Cartridges Integrated with Field-effect Transistors",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Deep Learning-based Kinetic Analysis in Paper-based Analytical Cartridges Integrated with Field-effect Transistors"
+            },
+            "updated": "2024-02-28T05:07:50.333602+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.17209",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.17209v1 Announce Type: new \nAbstract: This study explores the fusion of a field-effect transistor (FET), a paper-based analytical cartridge, and the computational power of deep learning (DL) for quantitative biosensing via kinetic analyses. The FET sensors address the low sensitivity challenge observed in paper analytical devices, enabling electrical measurements with kinetic data. The paper-based cartridge eliminates the need for surface chemistry required in FET sensors, ensuring economical operation (cost < $0.15/test). The DL analysis mitigates chronic challenges of FET biosensors such as sample matrix interference, by leveraging kinetic data from target-specific bioreactions. In our proof-of-concept demonstration, our DL-based analyses showcased a coefficient of variation of < 6.46% and a decent concentration measurement correlation with an r2 value of > 0.976 for cholesterol testing when blindly compared to results obtained from a CLIA-certified clinical laboratory. These integrated technologies can create a new generation of FET-based biosensors, potentially transforming point-of-care diagnostics and at-home testing through enhanced accessibility, ease-of-use, and accuracy.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.17209v1 Announce Type: new \nAbstract: This study explores the fusion of a field-effect transistor (FET), a paper-based analytical cartridge, and the computational power of deep learning (DL) for quantitative biosensing via kinetic analyses. The FET sensors address the low sensitivity challenge observed in paper analytical devices, enabling electrical measurements with kinetic data. The paper-based cartridge eliminates the need for surface chemistry required in FET sensors, ensuring economical operation (cost < $0.15/test). The DL analysis mitigates chronic challenges of FET biosensors such as sample matrix interference, by leveraging kinetic data from target-specific bioreactions. In our proof-of-concept demonstration, our DL-based analyses showcased a coefficient of variation of < 6.46% and a decent concentration measurement correlation with an r2 value of > 0.976 for cholesterol testing when blindly compared to results obtained from a CLIA-certified clinical laboratory. These integrated technologies can create a new generation of FET-based biosensors, potentially transforming point-of-care diagnostics and at-home testing through enhanced accessibility, ease-of-use, and accuracy."
+            },
+            "tags": [
+                {
+                    "term": "q-bio.QM",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "physics.app-ph",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "physics.ins-det",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "new",
+            "rights": "http://creativecommons.org/licenses/by/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Hyun-June Jang, Hyou-Arm Joung, Artem Goncharov, Anastasia Gant Kanegusuku, Clarence W. Chan, Kiang-Teck Jerry Yeo, Wen Zhuang, Aydogan Ozcan, Junhong Chen"
+                }
+            ],
+            "author": "Hyun-June Jang, Hyou-Arm Joung, Artem Goncharov, Anastasia Gant Kanegusuku, Clarence W. Chan, Kiang-Teck Jerry Yeo, Wen Zhuang, Aydogan Ozcan, Junhong Chen",
+            "author_detail": {
+                "name": "Hyun-June Jang, Hyou-Arm Joung, Artem Goncharov, Anastasia Gant Kanegusuku, Clarence W. Chan, Kiang-Teck Jerry Yeo, Wen Zhuang, Aydogan Ozcan, Junhong Chen"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2402.17252v1",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.17252",
+            "title": "tttrlib: modular software for integrating fluorescence spectroscopy, imaging, and molecular modeling",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "tttrlib: modular software for integrating fluorescence spectroscopy, imaging, and molecular modeling"
+            },
+            "updated": "2024-02-28T05:07:50.333512+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.17252",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.17252v1 Announce Type: new \nAbstract: We introduce software for reading, writing and processing fluorescence single-molecule and image spectroscopy data and developing analysis pipelines that unifies various spectroscopic analysis tools. Our software can be used for processing multiple experiment types, e.g., for time-resolved single-molecule (sm) spectroscopy, laser scanning microscopy, fluorescence correlation spectroscopy, and image correlation spectroscopy. The software is file format agnostic, processes and outputs multiple time-resolved data formats. Thereby our software eliminates the need for data conversion and mitigates data archiving issues.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.17252v1 Announce Type: new \nAbstract: We introduce software for reading, writing and processing fluorescence single-molecule and image spectroscopy data and developing analysis pipelines that unifies various spectroscopic analysis tools. Our software can be used for processing multiple experiment types, e.g., for time-resolved single-molecule (sm) spectroscopy, laser scanning microscopy, fluorescence correlation spectroscopy, and image correlation spectroscopy. The software is file format agnostic, processes and outputs multiple time-resolved data formats. Thereby our software eliminates the need for data conversion and mitigates data archiving issues."
+            },
+            "tags": [
+                {
+                    "term": "q-bio.QM",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "physics.bio-ph",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "new",
+            "rights": "http://creativecommons.org/licenses/by-sa/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Thomas-Otavio PeulenDepartment of Bioengineering and Therapeutic Sciences, University of California, San Francisco, Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, California, United States, Quantitative Biosciences Institute, Rudolf Virchow Center for Integrative and Translational Bioimaging, University of W\\\"urzburg, W\\\"urzburg, Germany, Katherina HemmenRudolf Virchow Center for Integrative and Translational Bioimaging, University of W\\\"urzburg, W\\\"urzburg, Germany, Annemarie GreifeChair of Molecular Physical Chemistry, Heinrich-Heine University, D\\\"usseldorf, Germany, Benjamin M. WebbDepartment of Bioengineering and Therapeutic Sciences, University of California, San Francisco, Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, California, United States, Quantitative Biosciences Institute, Suren FelekyanChair of Molecular Physical Chemistry, Heinrich-Heine University, D\\\"usseldorf, Germany, Andrej SaliDepartment of Bioengineering and Therapeutic Sciences, University of California, San Francisco, Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, California, United States, Quantitative Biosciences Institute, Claus A. M. SeidelChair of Molecular Physical Chemistry, Heinrich-Heine University, D\\\"usseldorf, Germany, Hugo SanabriaDepartment of Physics & Astronomy, Clemson University, Clemson, United States, Katrin G. HeinzeRudolf Virchow Center for Integrative and Translational Bioimaging, University of W\\\"urzburg, W\\\"urzburg, Germany"
+                }
+            ],
+            "author": "Thomas-Otavio PeulenDepartment of Bioengineering and Therapeutic Sciences, University of California, San Francisco, Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, California, United States, Quantitative Biosciences Institute, Rudolf Virchow Center for Integrative and Translational Bioimaging, University of W\\\"urzburg, W\\\"urzburg, Germany, Katherina HemmenRudolf Virchow Center for Integrative and Translational Bioimaging, University of W\\\"urzburg, W\\\"urzburg, Germany, Annemarie GreifeChair of Molecular Physical Chemistry, Heinrich-Heine University, D\\\"usseldorf, Germany, Benjamin M. WebbDepartment of Bioengineering and Therapeutic Sciences, University of California, San Francisco, Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, California, United States, Quantitative Biosciences Institute, Suren FelekyanChair of Molecular Physical Chemistry, Heinrich-Heine University, D\\\"usseldorf, Germany, Andrej SaliDepartment of Bioengineering and Therapeutic Sciences, University of California, San Francisco, Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, California, United States, Quantitative Biosciences Institute, Claus A. M. SeidelChair of Molecular Physical Chemistry, Heinrich-Heine University, D\\\"usseldorf, Germany, Hugo SanabriaDepartment of Physics & Astronomy, Clemson University, Clemson, United States, Katrin G. HeinzeRudolf Virchow Center for Integrative and Translational Bioimaging, University of W\\\"urzburg, W\\\"urzburg, Germany",
+            "author_detail": {
+                "name": "Thomas-Otavio PeulenDepartment of Bioengineering and Therapeutic Sciences, University of California, San Francisco, Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, California, United States, Quantitative Biosciences Institute, Rudolf Virchow Center for Integrative and Translational Bioimaging, University of W\\\"urzburg, W\\\"urzburg, Germany, Katherina HemmenRudolf Virchow Center for Integrative and Translational Bioimaging, University of W\\\"urzburg, W\\\"urzburg, Germany, Annemarie GreifeChair of Molecular Physical Chemistry, Heinrich-Heine University, D\\\"usseldorf, Germany, Benjamin M. WebbDepartment of Bioengineering and Therapeutic Sciences, University of California, San Francisco, Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, California, United States, Quantitative Biosciences Institute, Suren FelekyanChair of Molecular Physical Chemistry, Heinrich-Heine University, D\\\"usseldorf, Germany, Andrej SaliDepartment of Bioengineering and Therapeutic Sciences, University of California, San Francisco, Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, California, United States, Quantitative Biosciences Institute, Claus A. M. SeidelChair of Molecular Physical Chemistry, Heinrich-Heine University, D\\\"usseldorf, Germany, Hugo SanabriaDepartment of Physics & Astronomy, Clemson University, Clemson, United States, Katrin G. HeinzeRudolf Virchow Center for Integrative and Translational Bioimaging, University of W\\\"urzburg, W\\\"urzburg, Germany"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2402.17621v1",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.17621",
+            "title": "Supervised machine learning for microbiomics: bridging the gap between current and best practices",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Supervised machine learning for microbiomics: bridging the gap between current and best practices"
+            },
+            "updated": "2024-02-28T05:07:50.333423+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.17621",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.17621v1 Announce Type: new \nAbstract: Machine learning (ML) is set to accelerate innovations in clinical microbiomics, such as in disease diagnostics and prognostics. This will require high-quality, reproducible, interpretable workflows whose predictive capabilities meet or exceed the high thresholds set for clinical tools by regulatory agencies. Here, we capture a snapshot of current practices in the application of supervised ML to microbiomics data, through an in-depth analysis of 100 peer-reviewed journal articles published in 2021-2022. We apply a data-driven approach to steer discussion of the merits of varied approaches to experimental design, including key considerations such as how to mitigate the effects of small dataset size while avoiding data leakage. We further provide guidance on how to avoid common experimental design pitfalls that can hurt model performance, trustworthiness, and reproducibility. Discussion is accompanied by an interactive online tutorial that demonstrates foundational principles of ML experimental design, tailored to the microbiomics community. Formalizing community best practices for supervised ML in microbiomics is an important step towards improving the success and efficiency of clinical research, to the benefit of patients and other stakeholders.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.17621v1 Announce Type: new \nAbstract: Machine learning (ML) is set to accelerate innovations in clinical microbiomics, such as in disease diagnostics and prognostics. This will require high-quality, reproducible, interpretable workflows whose predictive capabilities meet or exceed the high thresholds set for clinical tools by regulatory agencies. Here, we capture a snapshot of current practices in the application of supervised ML to microbiomics data, through an in-depth analysis of 100 peer-reviewed journal articles published in 2021-2022. We apply a data-driven approach to steer discussion of the merits of varied approaches to experimental design, including key considerations such as how to mitigate the effects of small dataset size while avoiding data leakage. We further provide guidance on how to avoid common experimental design pitfalls that can hurt model performance, trustworthiness, and reproducibility. Discussion is accompanied by an interactive online tutorial that demonstrates foundational principles of ML experimental design, tailored to the microbiomics community. Formalizing community best practices for supervised ML in microbiomics is an important step towards improving the success and efficiency of clinical research, to the benefit of patients and other stakeholders."
+            },
+            "tags": [
+                {
+                    "term": "q-bio.GN",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cs.LG",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "new",
+            "rights": "http://creativecommons.org/licenses/by/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Natasha K. Dudek, Mariam Chakhvadze, Saba Kobakhidze, Omar Kantidze, Yuriy Gankin"
+                }
+            ],
+            "author": "Natasha K. Dudek, Mariam Chakhvadze, Saba Kobakhidze, Omar Kantidze, Yuriy Gankin",
+            "author_detail": {
+                "name": "Natasha K. Dudek, Mariam Chakhvadze, Saba Kobakhidze, Omar Kantidze, Yuriy Gankin"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2402.17650v1",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.17650",
+            "title": "Comparison of the Effects of Interaction with Intentional Agent and Artificial Intelligence using fNIRS",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Comparison of the Effects of Interaction with Intentional Agent and Artificial Intelligence using fNIRS"
+            },
+            "updated": "2024-02-28T05:07:50.333336+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.17650",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.17650v1 Announce Type: new \nAbstract: As societal interactions increasingly involve both intentional and unintentional agents, understanding their effects on human cognition becomes paramount. This study investigates the neural correlates of interacting with intentional versus artificial agents in a simulated tennis game scenario. Employing functional near-infrared imaging spectroscopy (fNIRS), we analyzed brain activity in 50 male participants during gameplay against both types of opponents. Our methodological approach ensures ecological validity by simulating real-world decision-making scenarios while participants undergo fNIRS scanning, avoiding the constraints of traditional neuroimaging methods. We focus on six prefrontal cortex channels, leveraging the 10-20 system, to capture nuanced differences in brain activity. Utilizing wavelet analysis, we dissected the data into frequency-specific differences, revealing subtle variations across different channels and frequency bands. Moreover, we quantified activity by comparing average data signals between rest and play modes across all points. Our findings unveil significant differences in neural activation patterns, particularly in one specific channel and frequency range, suggesting distinct cognitive processing when interacting with intentional agents. These results align with previous neuroimaging studies and contribute to understanding the neural underpinnings of human-agent interactions in naturalistic settings. While acknowledging study limitations, including sample homogeneity and spatial accuracy constraints, our findings underscore the potential of fNIRS in exploring complex cognitive phenomena beyond laboratory confines.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.17650v1 Announce Type: new \nAbstract: As societal interactions increasingly involve both intentional and unintentional agents, understanding their effects on human cognition becomes paramount. This study investigates the neural correlates of interacting with intentional versus artificial agents in a simulated tennis game scenario. Employing functional near-infrared imaging spectroscopy (fNIRS), we analyzed brain activity in 50 male participants during gameplay against both types of opponents. Our methodological approach ensures ecological validity by simulating real-world decision-making scenarios while participants undergo fNIRS scanning, avoiding the constraints of traditional neuroimaging methods. We focus on six prefrontal cortex channels, leveraging the 10-20 system, to capture nuanced differences in brain activity. Utilizing wavelet analysis, we dissected the data into frequency-specific differences, revealing subtle variations across different channels and frequency bands. Moreover, we quantified activity by comparing average data signals between rest and play modes across all points. Our findings unveil significant differences in neural activation patterns, particularly in one specific channel and frequency range, suggesting distinct cognitive processing when interacting with intentional agents. These results align with previous neuroimaging studies and contribute to understanding the neural underpinnings of human-agent interactions in naturalistic settings. While acknowledging study limitations, including sample homogeneity and spatial accuracy constraints, our findings underscore the potential of fNIRS in exploring complex cognitive phenomena beyond laboratory confines."
+            },
+            "tags": [
+                {
+                    "term": "q-bio.NC",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "new",
+            "rights": "http://creativecommons.org/licenses/by/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Mohammad Ghalavand, Javad Hatami, Seyed Kamaledin Setarehdan, Fatimah Nosrati, Hananeh Ghalavand, Ali Nikhalat-Jahromi"
+                }
+            ],
+            "author": "Mohammad Ghalavand, Javad Hatami, Seyed Kamaledin Setarehdan, Fatimah Nosrati, Hananeh Ghalavand, Ali Nikhalat-Jahromi",
+            "author_detail": {
+                "name": "Mohammad Ghalavand, Javad Hatami, Seyed Kamaledin Setarehdan, Fatimah Nosrati, Hananeh Ghalavand, Ali Nikhalat-Jahromi"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2402.17704v1",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.17704",
+            "title": "Transfer Learning Bayesian Optimization to Design Competitor DNA Molecules for Use in Diagnostic Assays",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Transfer Learning Bayesian Optimization to Design Competitor DNA Molecules for Use in Diagnostic Assays"
+            },
+            "updated": "2024-02-28T05:07:50.333245+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.17704",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.17704v1 Announce Type: new \nAbstract: With the rise in engineered biomolecular devices, there is an increased need for tailor-made biological sequences. Often, many similar biological sequences need to be made for a specific application meaning numerous, sometimes prohibitively expensive, lab experiments are necessary for their optimization. This paper presents a transfer learning design of experiments workflow to make this development feasible. By combining a transfer learning surrogate model with Bayesian optimization, we show how the total number of experiments can be reduced by sharing information between optimization tasks. We demonstrate the reduction in the number of experiments using data from the development of DNA competitors for use in an amplification-based diagnostic assay. We use cross-validation to compare the predictive accuracy of different transfer learning models, and then compare the performance of the models for both single objective and penalized optimization tasks.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.17704v1 Announce Type: new \nAbstract: With the rise in engineered biomolecular devices, there is an increased need for tailor-made biological sequences. Often, many similar biological sequences need to be made for a specific application meaning numerous, sometimes prohibitively expensive, lab experiments are necessary for their optimization. This paper presents a transfer learning design of experiments workflow to make this development feasible. By combining a transfer learning surrogate model with Bayesian optimization, we show how the total number of experiments can be reduced by sharing information between optimization tasks. We demonstrate the reduction in the number of experiments using data from the development of DNA competitors for use in an amplification-based diagnostic assay. We use cross-validation to compare the predictive accuracy of different transfer learning models, and then compare the performance of the models for both single objective and penalized optimization tasks."
+            },
+            "tags": [
+                {
+                    "term": "q-bio.QM",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cs.LG",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "stat.ML",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "new",
+            "rights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Ruby Sedgwick, John P. Goertz, Molly M. Stevens, Ruth Misener, Mark van der Wilk"
+                }
+            ],
+            "author": "Ruby Sedgwick, John P. Goertz, Molly M. Stevens, Ruth Misener, Mark van der Wilk",
+            "author_detail": {
+                "name": "Ruby Sedgwick, John P. Goertz, Molly M. Stevens, Ruth Misener, Mark van der Wilk"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2402.16882v1",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.16882",
+            "title": "Substrate Scope Contrastive Learning: Repurposing Human Bias to Learn Atomic Representations",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Substrate Scope Contrastive Learning: Repurposing Human Bias to Learn Atomic Representations"
+            },
+            "updated": "2024-02-28T05:07:50.333149+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.16882",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.16882v1 Announce Type: cross \nAbstract: Learning molecular representation is a critical step in molecular machine learning that significantly influences modeling success, particularly in data-scarce situations. The concept of broadly pre-training neural networks has advanced fields such as computer vision, natural language processing, and protein engineering. However, similar approaches for small organic molecules have not achieved comparable success. In this work, we introduce a novel pre-training strategy, substrate scope contrastive learning, which learns atomic representations tailored to chemical reactivity. This method considers the grouping of substrates and their yields in published substrate scope tables as a measure of their similarity or dissimilarity in terms of chemical reactivity. We focus on 20,798 aryl halides in the CAS Content Collection spanning thousands of publications to learn a representation of aryl halide reactivity. We validate our pre-training approach through both intuitive visualizations and comparisons to traditional reactivity descriptors and physical organic chemistry principles. The versatility of these embeddings is further evidenced in their application to yield prediction, regioselectivity prediction, and the diverse selection of new substrates. This work not only presents a chemistry-tailored neural network pre-training strategy to learn reactivity-aligned atomic representations, but also marks a first-of-its-kind approach to benefit from the human bias in substrate scope design.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.16882v1 Announce Type: cross \nAbstract: Learning molecular representation is a critical step in molecular machine learning that significantly influences modeling success, particularly in data-scarce situations. The concept of broadly pre-training neural networks has advanced fields such as computer vision, natural language processing, and protein engineering. However, similar approaches for small organic molecules have not achieved comparable success. In this work, we introduce a novel pre-training strategy, substrate scope contrastive learning, which learns atomic representations tailored to chemical reactivity. This method considers the grouping of substrates and their yields in published substrate scope tables as a measure of their similarity or dissimilarity in terms of chemical reactivity. We focus on 20,798 aryl halides in the CAS Content Collection spanning thousands of publications to learn a representation of aryl halide reactivity. We validate our pre-training approach through both intuitive visualizations and comparisons to traditional reactivity descriptors and physical organic chemistry principles. The versatility of these embeddings is further evidenced in their application to yield prediction, regioselectivity prediction, and the diverse selection of new substrates. This work not only presents a chemistry-tailored neural network pre-training strategy to learn reactivity-aligned atomic representations, but also marks a first-of-its-kind approach to benefit from the human bias in substrate scope design."
+            },
+            "tags": [
+                {
+                    "term": "physics.chem-ph",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cs.AI",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cs.LG",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "q-bio.BM",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "cross",
+            "rights": "http://creativecommons.org/licenses/by/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Wenhao Gao, Priyanka Raghavan, Ron Shprints, Connor W. Coley"
+                }
+            ],
+            "author": "Wenhao Gao, Priyanka Raghavan, Ron Shprints, Connor W. Coley",
+            "author_detail": {
+                "name": "Wenhao Gao, Priyanka Raghavan, Ron Shprints, Connor W. Coley"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2402.16930v1",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.16930",
+            "title": "TrustMol: Trustworthy Inverse Molecular Design via Alignment with Molecular Dynamics",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "TrustMol: Trustworthy Inverse Molecular Design via Alignment with Molecular Dynamics"
+            },
+            "updated": "2024-02-28T05:07:50.333041+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.16930",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.16930v1 Announce Type: cross \nAbstract: Data-driven generation of molecules with desired properties, also known as inverse molecular design (IMD), has attracted significant attention in recent years. Despite the significant progress in the accuracy and diversity of solutions, existing IMD methods lag behind in terms of trustworthiness. The root issue is that the design process of these methods is increasingly more implicit and indirect, and this process is also isolated from the native forward process (NFP), the ground-truth function that models the molecular dynamics. Following this insight, we propose TrustMol, an IMD method built to be trustworthy. For this purpose, TrustMol relies on a set of technical novelties including a new variational autoencoder network. Moreover, we propose a latent-property pairs acquisition method to effectively navigate the complexities of molecular latent optimization, a process that seems intuitive yet challenging due to the high-frequency and discontinuous nature of molecule space. TrustMol also integrates uncertainty-awareness into molecular latent optimization. These lead to improvements in both explainability and reliability of the IMD process. We validate the trustworthiness of TrustMol through a wide range of experiments.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.16930v1 Announce Type: cross \nAbstract: Data-driven generation of molecules with desired properties, also known as inverse molecular design (IMD), has attracted significant attention in recent years. Despite the significant progress in the accuracy and diversity of solutions, existing IMD methods lag behind in terms of trustworthiness. The root issue is that the design process of these methods is increasingly more implicit and indirect, and this process is also isolated from the native forward process (NFP), the ground-truth function that models the molecular dynamics. Following this insight, we propose TrustMol, an IMD method built to be trustworthy. For this purpose, TrustMol relies on a set of technical novelties including a new variational autoencoder network. Moreover, we propose a latent-property pairs acquisition method to effectively navigate the complexities of molecular latent optimization, a process that seems intuitive yet challenging due to the high-frequency and discontinuous nature of molecule space. TrustMol also integrates uncertainty-awareness into molecular latent optimization. These lead to improvements in both explainability and reliability of the IMD process. We validate the trustworthiness of TrustMol through a wide range of experiments."
+            },
+            "tags": [
+                {
+                    "term": "physics.chem-ph",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cs.LG",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "q-bio.QM",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "cross",
+            "rights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Kevin Tirta Wijaya, Navid Ansari, Hans-Peter Seidel, Vahid Babaei"
+                }
+            ],
+            "author": "Kevin Tirta Wijaya, Navid Ansari, Hans-Peter Seidel, Vahid Babaei",
+            "author_detail": {
+                "name": "Kevin Tirta Wijaya, Navid Ansari, Hans-Peter Seidel, Vahid Babaei"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2402.16996v1",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.16996",
+            "title": "Towards Decoding Brain Activity During Passive Listening of Speech",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Towards Decoding Brain Activity During Passive Listening of Speech"
+            },
+            "updated": "2024-02-28T05:07:50.332664+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.16996",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.16996v1 Announce Type: cross \nAbstract: The aim of the study is to investigate the complex mechanisms of speech perception and ultimately decode the electrical changes in the brain accruing while listening to speech. We attempt to decode heard speech from intracranial electroencephalographic (iEEG) data using deep learning methods. The goal is to aid the advancement of brain-computer interface (BCI) technology for speech synthesis, and, hopefully, to provide an additional perspective on the cognitive processes of speech perception. This approach diverges from the conventional focus on speech production and instead chooses to investigate neural representations of perceived speech. This angle opened up a complex perspective, potentially allowing us to study more sophisticated neural patterns. Leveraging the power of deep learning models, the research aimed to establish a connection between these intricate neural activities and the corresponding speech sounds. Despite the approach not having achieved a breakthrough yet, the research sheds light on the potential of decoding neural activity during speech perception. Our current efforts can serve as a foundation, and we are optimistic about the potential of expanding and improving upon this work to move closer towards more advanced BCIs, better understanding of processes underlying perceived speech and its relation to spoken speech.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.16996v1 Announce Type: cross \nAbstract: The aim of the study is to investigate the complex mechanisms of speech perception and ultimately decode the electrical changes in the brain accruing while listening to speech. We attempt to decode heard speech from intracranial electroencephalographic (iEEG) data using deep learning methods. The goal is to aid the advancement of brain-computer interface (BCI) technology for speech synthesis, and, hopefully, to provide an additional perspective on the cognitive processes of speech perception. This approach diverges from the conventional focus on speech production and instead chooses to investigate neural representations of perceived speech. This angle opened up a complex perspective, potentially allowing us to study more sophisticated neural patterns. Leveraging the power of deep learning models, the research aimed to establish a connection between these intricate neural activities and the corresponding speech sounds. Despite the approach not having achieved a breakthrough yet, the research sheds light on the potential of decoding neural activity during speech perception. Our current efforts can serve as a foundation, and we are optimistic about the potential of expanding and improving upon this work to move closer towards more advanced BCIs, better understanding of processes underlying perceived speech and its relation to spoken speech."
+            },
+            "tags": [
+                {
+                    "term": "cs.HC",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cs.LG",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cs.SD",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "eess.AS",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "q-bio.NC",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "cross",
+            "rights": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/"
+            },
+            "authors": [
+                {
+                    "name": "Mil\\'an Andr\\'as Fodor, Tam\\'as G\\'abor Csap\\'o, Frigyes Viktor Arthur"
+                }
+            ],
+            "author": "Mil\\'an Andr\\'as Fodor, Tam\\'as G\\'abor Csap\\'o, Frigyes Viktor Arthur",
+            "author_detail": {
+                "name": "Mil\\'an Andr\\'as Fodor, Tam\\'as G\\'abor Csap\\'o, Frigyes Viktor Arthur"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2402.17131v1",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.17131",
+            "title": "Predicting O-GlcNAcylation Sites in Mammalian Proteins with Transformers and RNNs Trained with a New Loss Function",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Predicting O-GlcNAcylation Sites in Mammalian Proteins with Transformers and RNNs Trained with a New Loss Function"
+            },
+            "updated": "2024-02-28T05:07:50.331780+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.17131",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.17131v1 Announce Type: cross \nAbstract: Glycosylation, a protein modification, has multiple essential functional and structural roles. O-GlcNAcylation, a subtype of glycosylation, has the potential to be an important target for therapeutics, but methods to reliably predict O-GlcNAcylation sites had not been available until 2023; a 2021 review correctly noted that published models were insufficient and failed to generalize. Moreover, many are no longer usable. In 2023, a considerably better RNN model with an F$_1$ score of 36.17% and an MCC of 34.57% on a large dataset was published. This article first sought to improve these metrics using transformer encoders. While transformers displayed high performance on this dataset, their performance was inferior to that of the previously published RNN. We then created a new loss function, which we call the weighted focal differentiable MCC, to improve the performance of classification models. RNN models trained with this new function display superior performance to models trained using the weighted cross-entropy loss; this new function can also be used to fine-tune trained models. A two-cell RNN trained with this loss achieves state-of-the-art performance in O-GlcNAcylation site prediction with an F$_1$ score of 38.82% and an MCC of 38.21% on that large dataset.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.17131v1 Announce Type: cross \nAbstract: Glycosylation, a protein modification, has multiple essential functional and structural roles. O-GlcNAcylation, a subtype of glycosylation, has the potential to be an important target for therapeutics, but methods to reliably predict O-GlcNAcylation sites had not been available until 2023; a 2021 review correctly noted that published models were insufficient and failed to generalize. Moreover, many are no longer usable. In 2023, a considerably better RNN model with an F$_1$ score of 36.17% and an MCC of 34.57% on a large dataset was published. This article first sought to improve these metrics using transformer encoders. While transformers displayed high performance on this dataset, their performance was inferior to that of the previously published RNN. We then created a new loss function, which we call the weighted focal differentiable MCC, to improve the performance of classification models. RNN models trained with this new function display superior performance to models trained using the weighted cross-entropy loss; this new function can also be used to fine-tune trained models. A two-cell RNN trained with this loss achieves state-of-the-art performance in O-GlcNAcylation site prediction with an F$_1$ score of 38.82% and an MCC of 38.21% on that large dataset."
+            },
+            "tags": [
+                {
+                    "term": "cs.LG",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "q-bio.MN",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "cross",
+            "rights": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/"
+            },
+            "authors": [
+                {
+                    "name": "Pedro Seber"
+                }
+            ],
+            "author": "Pedro Seber",
+            "author_detail": {
+                "name": "Pedro Seber"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2402.17156v1",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.17156",
+            "title": "TaxDiff: Taxonomic-Guided Diffusion Model for Protein Sequence Generation",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "TaxDiff: Taxonomic-Guided Diffusion Model for Protein Sequence Generation"
+            },
+            "updated": "2024-02-28T05:07:50.331668+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.17156",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.17156v1 Announce Type: cross \nAbstract: Designing protein sequences with specific biological functions and structural stability is crucial in biology and chemistry. Generative models already demonstrated their capabilities for reliable protein design. However, previous models are limited to the unconditional generation of protein sequences and lack the controllable generation ability that is vital to biological tasks. In this work, we propose TaxDiff, a taxonomic-guided diffusion model for controllable protein sequence generation that combines biological species information with the generative capabilities of diffusion models to generate structurally stable proteins within the sequence space. Specifically, taxonomic control information is inserted into each layer of the transformer block to achieve fine-grained control. The combination of global and local attention ensures the sequence consistency and structural foldability of taxonomic-specific proteins. Extensive experiments demonstrate that TaxDiff can consistently achieve better performance on multiple protein sequence generation benchmarks in both taxonomic-guided controllable generation and unconditional generation. Remarkably, the sequences generated by TaxDiff even surpass those produced by direct-structure-generation models in terms of confidence based on predicted structures and require only a quarter of the time of models based on the diffusion model. The code for generating proteins and training new versions of TaxDiff is available at:https://github.com/Linzy19/TaxDiff.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.17156v1 Announce Type: cross \nAbstract: Designing protein sequences with specific biological functions and structural stability is crucial in biology and chemistry. Generative models already demonstrated their capabilities for reliable protein design. However, previous models are limited to the unconditional generation of protein sequences and lack the controllable generation ability that is vital to biological tasks. In this work, we propose TaxDiff, a taxonomic-guided diffusion model for controllable protein sequence generation that combines biological species information with the generative capabilities of diffusion models to generate structurally stable proteins within the sequence space. Specifically, taxonomic control information is inserted into each layer of the transformer block to achieve fine-grained control. The combination of global and local attention ensures the sequence consistency and structural foldability of taxonomic-specific proteins. Extensive experiments demonstrate that TaxDiff can consistently achieve better performance on multiple protein sequence generation benchmarks in both taxonomic-guided controllable generation and unconditional generation. Remarkably, the sequences generated by TaxDiff even surpass those produced by direct-structure-generation models in terms of confidence based on predicted structures and require only a quarter of the time of models based on the diffusion model. The code for generating proteins and training new versions of TaxDiff is available at:https://github.com/Linzy19/TaxDiff."
+            },
+            "tags": [
+                {
+                    "term": "cs.LG",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cs.AI",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "q-bio.BM",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "cross",
+            "rights": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/"
+            },
+            "authors": [
+                {
+                    "name": "Lin Zongying, Li Hao, Lv Liuzhenghao, Lin Bin, Zhang Junwu, Chen Calvin Yu-Chian, Yuan Li, Tian Yonghong"
+                }
+            ],
+            "author": "Lin Zongying, Li Hao, Lv Liuzhenghao, Lin Bin, Zhang Junwu, Chen Calvin Yu-Chian, Yuan Li, Tian Yonghong",
+            "author_detail": {
+                "name": "Lin Zongying, Li Hao, Lv Liuzhenghao, Lin Bin, Zhang Junwu, Chen Calvin Yu-Chian, Yuan Li, Tian Yonghong"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2402.17179v1",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.17179",
+            "title": "Dual-Space Optimization: Improved Molecule Sequence Design by Latent Prompt Transformer",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Dual-Space Optimization: Improved Molecule Sequence Design by Latent Prompt Transformer"
+            },
+            "updated": "2024-02-28T05:07:50.331358+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.17179",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.17179v1 Announce Type: cross \nAbstract: Designing molecules with desirable properties, such as drug-likeliness and high binding affinities towards protein targets, is a challenging problem. In this paper, we propose the Dual-Space Optimization (DSO) method that integrates latent space sampling and data space selection to solve this problem. DSO iteratively updates a latent space generative model and a synthetic dataset in an optimization process that gradually shifts the generative model and the synthetic data towards regions of desired property values. Our generative model takes the form of a Latent Prompt Transformer (LPT) where the latent vector serves as the prompt of a causal transformer. Our extensive experiments demonstrate effectiveness of the proposed method, which sets new performance benchmarks across single-objective, multi-objective and constrained molecule design tasks.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.17179v1 Announce Type: cross \nAbstract: Designing molecules with desirable properties, such as drug-likeliness and high binding affinities towards protein targets, is a challenging problem. In this paper, we propose the Dual-Space Optimization (DSO) method that integrates latent space sampling and data space selection to solve this problem. DSO iteratively updates a latent space generative model and a synthetic dataset in an optimization process that gradually shifts the generative model and the synthetic data towards regions of desired property values. Our generative model takes the form of a Latent Prompt Transformer (LPT) where the latent vector serves as the prompt of a causal transformer. Our extensive experiments demonstrate effectiveness of the proposed method, which sets new performance benchmarks across single-objective, multi-objective and constrained molecule design tasks."
+            },
+            "tags": [
+                {
+                    "term": "cs.LG",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "q-bio.BM",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "cross",
+            "rights": "http://creativecommons.org/licenses/by/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Deqian Kong, Yuhao Huang, Jianwen Xie, Edouardo Honig, Ming Xu, Shuanghong Xue, Pei Lin, Sanping Zhou, Sheng Zhong, Nanning Zheng, Ying Nian Wu"
+                }
+            ],
+            "author": "Deqian Kong, Yuhao Huang, Jianwen Xie, Edouardo Honig, Ming Xu, Shuanghong Xue, Pei Lin, Sanping Zhou, Sheng Zhong, Nanning Zheng, Ying Nian Wu",
+            "author_detail": {
+                "name": "Deqian Kong, Yuhao Huang, Jianwen Xie, Edouardo Honig, Ming Xu, Shuanghong Xue, Pei Lin, Sanping Zhou, Sheng Zhong, Nanning Zheng, Ying Nian Wu"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2402.17572v1",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.17572",
+            "title": "Hyperdimensional computing: a fast, robust and interpretable paradigm for biological data",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Hyperdimensional computing: a fast, robust and interpretable paradigm for biological data"
+            },
+            "updated": "2024-02-28T05:07:50.331014+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.17572",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.17572v1 Announce Type: cross \nAbstract: Advances in bioinformatics are primarily due to new algorithms for processing diverse biological data sources. While sophisticated alignment algorithms have been pivotal in analyzing biological sequences, deep learning has substantially transformed bioinformatics, addressing sequence, structure, and functional analyses. However, these methods are incredibly data-hungry, compute-intensive and hard to interpret. Hyperdimensional computing (HDC) has recently emerged as an intriguing alternative. The key idea is that random vectors of high dimensionality can represent concepts such as sequence identity or phylogeny. These vectors can then be combined using simple operators for learning, reasoning or querying by exploiting the peculiar properties of high-dimensional spaces. Our work reviews and explores the potential of HDC for bioinformatics, emphasizing its efficiency, interpretability, and adeptness in handling multimodal and structured data. HDC holds a lot of potential for various omics data searching, biosignal analysis and health applications.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.17572v1 Announce Type: cross \nAbstract: Advances in bioinformatics are primarily due to new algorithms for processing diverse biological data sources. While sophisticated alignment algorithms have been pivotal in analyzing biological sequences, deep learning has substantially transformed bioinformatics, addressing sequence, structure, and functional analyses. However, these methods are incredibly data-hungry, compute-intensive and hard to interpret. Hyperdimensional computing (HDC) has recently emerged as an intriguing alternative. The key idea is that random vectors of high dimensionality can represent concepts such as sequence identity or phylogeny. These vectors can then be combined using simple operators for learning, reasoning or querying by exploiting the peculiar properties of high-dimensional spaces. Our work reviews and explores the potential of HDC for bioinformatics, emphasizing its efficiency, interpretability, and adeptness in handling multimodal and structured data. HDC holds a lot of potential for various omics data searching, biosignal analysis and health applications."
+            },
+            "tags": [
+                {
+                    "term": "cs.LG",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "q-bio.QM",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "cross",
+            "rights": "http://creativecommons.org/licenses/by/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Michiel Stock, Dimitri Boeckaerts, Pieter Dewulf, Steff Taelman, Maxime Van Haeverbeke, Wim Van Criekinge, Bernard De Baets"
+                }
+            ],
+            "author": "Michiel Stock, Dimitri Boeckaerts, Pieter Dewulf, Steff Taelman, Maxime Van Haeverbeke, Wim Van Criekinge, Bernard De Baets",
+            "author_detail": {
+                "name": "Michiel Stock, Dimitri Boeckaerts, Pieter Dewulf, Steff Taelman, Maxime Van Haeverbeke, Wim Van Criekinge, Bernard De Baets"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2402.17669v1",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.17669",
+            "title": "Contractility-driven cell motility against a viscoelastic resistance",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Contractility-driven cell motility against a viscoelastic resistance"
+            },
+            "updated": "2024-02-28T05:07:50.330919+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.17669",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.17669v1 Announce Type: cross \nAbstract: We study a model of contraction-based cell motility inside a microchannel to investigate the regulation of cell polarization and motion by the mechanical resistance of the environment. A positive feedback between the asymmetry of the acto-myosin cortex density and cell motion gives rise to a spontaneous symmetry breaking beyond a threshold contractility that depends on the resistance of extracellular medium. In highly viscous environments, we predict bistability under moderate contractility, so that symmetry breaking needs to be activated. In a viscoelastic environment, we find periodic oscillations in cortex density and velocity polarization. At the boundary between viscous and viscoelastic environments, the cell may either cross into the viscoelastic medium, bounce back into the viscous medium, or become trapped at the boundary. The different scenarios defined different phase diagram that are confirmed by numerical simulations.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.17669v1 Announce Type: cross \nAbstract: We study a model of contraction-based cell motility inside a microchannel to investigate the regulation of cell polarization and motion by the mechanical resistance of the environment. A positive feedback between the asymmetry of the acto-myosin cortex density and cell motion gives rise to a spontaneous symmetry breaking beyond a threshold contractility that depends on the resistance of extracellular medium. In highly viscous environments, we predict bistability under moderate contractility, so that symmetry breaking needs to be activated. In a viscoelastic environment, we find periodic oscillations in cortex density and velocity polarization. At the boundary between viscous and viscoelastic environments, the cell may either cross into the viscoelastic medium, bounce back into the viscous medium, or become trapped at the boundary. The different scenarios defined different phase diagram that are confirmed by numerical simulations."
+            },
+            "tags": [
+                {
+                    "term": "physics.bio-ph",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cond-mat.soft",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "q-bio.CB",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "cross",
+            "rights": "http://creativecommons.org/licenses/by/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Tapas Singha, Pierre Sens"
+                }
+            ],
+            "author": "Tapas Singha, Pierre Sens",
+            "author_detail": {
+                "name": "Tapas Singha, Pierre Sens"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2303.06183v2",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2303.06183",
+            "title": "Efficient simulation of individual-based population models: the R Package IBMPopSim",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Efficient simulation of individual-based population models: the R Package IBMPopSim"
+            },
+            "updated": "2024-02-28T05:07:50.330826+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2303.06183",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2303.06183v2 Announce Type: replace \nAbstract: The R Package IBMPopSim aims to simulate the random evolution of heterogeneous populations using stochastic Individual-Based Models (IBMs).\n  The package enables users to simulate population evolution, in which individuals are characterized by their age and some characteristics, and the population is modified by different types of events, including births/arrivals, death/exit events, or changes of characteristics. The frequency at which an event can occur to an individual can depend on their age and characteristics, but also on the characteristics of other individuals (interactions). Such models have a wide range of applications in fields including actuarial science, biology, ecology or epidemiology.\n  IBMPopSim overcomes the limitations of time-consuming IBMs simulations by implementing new efficient algorithms based on thinning methods, which are compiled using the Rcpp package while providing a user-friendly interface.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2303.06183v2 Announce Type: replace \nAbstract: The R Package IBMPopSim aims to simulate the random evolution of heterogeneous populations using stochastic Individual-Based Models (IBMs).\n  The package enables users to simulate population evolution, in which individuals are characterized by their age and some characteristics, and the population is modified by different types of events, including births/arrivals, death/exit events, or changes of characteristics. The frequency at which an event can occur to an individual can depend on their age and characteristics, but also on the characteristics of other individuals (interactions). Such models have a wide range of applications in fields including actuarial science, biology, ecology or epidemiology.\n  IBMPopSim overcomes the limitations of time-consuming IBMs simulations by implementing new efficient algorithms based on thinning methods, which are compiled using the Rcpp package while providing a user-friendly interface."
+            },
+            "tags": [
+                {
+                    "term": "q-bio.PE",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cs.MS",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "math.PR",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "replace",
+            "rights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Daphn\\'e Giorgi, Sarah Kaakai, Vincent Lemaire"
+                }
+            ],
+            "author": "Daphn\\'e Giorgi, Sarah Kaakai, Vincent Lemaire",
+            "author_detail": {
+                "name": "Daphn\\'e Giorgi, Sarah Kaakai, Vincent Lemaire"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2304.02794v4",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2304.02794",
+            "title": "Nonequilibrium antigen recognition during infections and vaccinations",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Nonequilibrium antigen recognition during infections and vaccinations"
+            },
+            "updated": "2024-02-28T05:07:50.330734+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2304.02794",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2304.02794v4 Announce Type: replace \nAbstract: The immune response to an acute primary infection is a coupled process of antigen proliferation, molecular recognition by naive B cells, and their subsequent proliferation and antibody shedding. This process contains a fundamental problem: the recognition of an exponentially time-dependent antigen signal. Here we show that B cells can efficiently recognise new antigens by a tuned kinetic proofreading mechanism, where the molecular recognition machinery is adapted to the complexity of the immune repertoire. This process produces potent, specific and fast recognition of antigens, maintaining a spectrum of genetically distinct B cell lineages as input for affinity maturation. We show that the proliferation-recognition dynamics of a primary infection is a generalised Luria-Delbr\\\"uck process, akin to the dynamics of the classic fluctuation experiment. This map establishes a link between signal recognition dynamics and evolution. We derive the resulting statistics of the activated immune repertoire: antigen binding affinity, expected size, and frequency of active B cell clones are related by power laws, which define the class of generalised Luria-Delbr\\\"uck processes. Their exponents depend on the antigen and B cell proliferation rate, the number of proofreading steps, and the lineage density of the naive repertoire. We extend the model to include spatio-temporal processes, including the diffusion-recognition dynamics of a vaccination. Empirical data of activated mouse immune repertoires are found to be consistent with activation involving about three proofreading steps. The model predicts key clinical characteristics of acute infections and vaccinations, including the emergence of elite neutralisers and the effects of immune ageing. More broadly, our results establish infections and vaccinations as a new probe into the global architecture and functional principles of immune repertoires.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2304.02794v4 Announce Type: replace \nAbstract: The immune response to an acute primary infection is a coupled process of antigen proliferation, molecular recognition by naive B cells, and their subsequent proliferation and antibody shedding. This process contains a fundamental problem: the recognition of an exponentially time-dependent antigen signal. Here we show that B cells can efficiently recognise new antigens by a tuned kinetic proofreading mechanism, where the molecular recognition machinery is adapted to the complexity of the immune repertoire. This process produces potent, specific and fast recognition of antigens, maintaining a spectrum of genetically distinct B cell lineages as input for affinity maturation. We show that the proliferation-recognition dynamics of a primary infection is a generalised Luria-Delbr\\\"uck process, akin to the dynamics of the classic fluctuation experiment. This map establishes a link between signal recognition dynamics and evolution. We derive the resulting statistics of the activated immune repertoire: antigen binding affinity, expected size, and frequency of active B cell clones are related by power laws, which define the class of generalised Luria-Delbr\\\"uck processes. Their exponents depend on the antigen and B cell proliferation rate, the number of proofreading steps, and the lineage density of the naive repertoire. We extend the model to include spatio-temporal processes, including the diffusion-recognition dynamics of a vaccination. Empirical data of activated mouse immune repertoires are found to be consistent with activation involving about three proofreading steps. The model predicts key clinical characteristics of acute infections and vaccinations, including the emergence of elite neutralisers and the effects of immune ageing. More broadly, our results establish infections and vaccinations as a new probe into the global architecture and functional principles of immune repertoires."
+            },
+            "tags": [
+                {
+                    "term": "q-bio.PE",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "q-bio.SC",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "replace",
+            "rights": "http://creativecommons.org/licenses/by/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Roberto Mor\\'an-Tovar, Michael L\\\"assig"
+                }
+            ],
+            "author": "Roberto Mor\\'an-Tovar, Michael L\\\"assig",
+            "author_detail": {
+                "name": "Roberto Mor\\'an-Tovar, Michael L\\\"assig"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2307.10683v3",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2307.10683",
+            "title": "Fractional Denoising for 3D Molecular Pre-training",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Fractional Denoising for 3D Molecular Pre-training"
+            },
+            "updated": "2024-02-28T05:07:50.330639+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2307.10683",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2307.10683v3 Announce Type: replace \nAbstract: Coordinate denoising is a promising 3D molecular pre-training method, which has achieved remarkable performance in various downstream drug discovery tasks. Theoretically, the objective is equivalent to learning the force field, which is revealed helpful for downstream tasks. Nevertheless, there are two challenges for coordinate denoising to learn an effective force field, i.e. low coverage samples and isotropic force field. The underlying reason is that molecular distributions assumed by existing denoising methods fail to capture the anisotropic characteristic of molecules. To tackle these challenges, we propose a novel hybrid noise strategy, including noises on both dihedral angel and coordinate. However, denoising such hybrid noise in a traditional way is no more equivalent to learning the force field. Through theoretical deductions, we find that the problem is caused by the dependency of the input conformation for covariance. To this end, we propose to decouple the two types of noise and design a novel fractional denoising method (Frad), which only denoises the latter coordinate part. In this way, Frad enjoys both the merits of sampling more low-energy structures and the force field equivalence. Extensive experiments show the effectiveness of Frad in molecular representation, with a new state-of-the-art on 9 out of 12 tasks of QM9 and on 7 out of 8 targets of MD17.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2307.10683v3 Announce Type: replace \nAbstract: Coordinate denoising is a promising 3D molecular pre-training method, which has achieved remarkable performance in various downstream drug discovery tasks. Theoretically, the objective is equivalent to learning the force field, which is revealed helpful for downstream tasks. Nevertheless, there are two challenges for coordinate denoising to learn an effective force field, i.e. low coverage samples and isotropic force field. The underlying reason is that molecular distributions assumed by existing denoising methods fail to capture the anisotropic characteristic of molecules. To tackle these challenges, we propose a novel hybrid noise strategy, including noises on both dihedral angel and coordinate. However, denoising such hybrid noise in a traditional way is no more equivalent to learning the force field. Through theoretical deductions, we find that the problem is caused by the dependency of the input conformation for covariance. To this end, we propose to decouple the two types of noise and design a novel fractional denoising method (Frad), which only denoises the latter coordinate part. In this way, Frad enjoys both the merits of sampling more low-energy structures and the force field equivalence. Extensive experiments show the effectiveness of Frad in molecular representation, with a new state-of-the-art on 9 out of 12 tasks of QM9 and on 7 out of 8 targets of MD17."
+            },
+            "tags": [
+                {
+                    "term": "q-bio.QM",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cs.LG",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "physics.chem-ph",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "replace",
+            "rights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Shikun Feng, Yuyan Ni, Yanyan Lan, Zhi-Ming Ma, Wei-Ying Ma"
+                }
+            ],
+            "author": "Shikun Feng, Yuyan Ni, Yanyan Lan, Zhi-Ming Ma, Wei-Ying Ma",
+            "author_detail": {
+                "name": "Shikun Feng, Yuyan Ni, Yanyan Lan, Zhi-Ming Ma, Wei-Ying Ma"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2309.15326v3",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2309.15326",
+            "title": "Structural identifiability analysis of linear reaction-advection-diffusion processes in mathematical biology",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Structural identifiability analysis of linear reaction-advection-diffusion processes in mathematical biology"
+            },
+            "updated": "2024-02-28T05:07:50.330545+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2309.15326",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2309.15326v3 Announce Type: replace \nAbstract: Effective application of mathematical models to interpret biological data and make accurate predictions often requires that model parameters are identifiable. Approaches to assess the so-called structural identifiability of models are well-established for ordinary differential equation models, yet there are no commonly adopted approaches that can be applied to assess the structural identifiability of the partial differential equation (PDE) models that are requisite to capture spatial features inherent to many phenomena. The differential algebra approach to structural identifiability has recently been demonstrated to be applicable to several specific PDE models. In this brief article, we present general methodology for performing structural identifiability analysis on partially observed reaction-advection-diffusion (RAD) PDE models that are linear in the unobserved quantities. We show that the differential algebra approach can always, in theory, be applied to such models. Moreover, despite the perceived complexity introduced by the addition of advection and diffusion terms, identifiability of spatial analogues of non-spatial models cannot decrease in structural identifiability. We conclude by discussing future possibilities and the computational cost of performing structural identifiability analysis on more general PDE models.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2309.15326v3 Announce Type: replace \nAbstract: Effective application of mathematical models to interpret biological data and make accurate predictions often requires that model parameters are identifiable. Approaches to assess the so-called structural identifiability of models are well-established for ordinary differential equation models, yet there are no commonly adopted approaches that can be applied to assess the structural identifiability of the partial differential equation (PDE) models that are requisite to capture spatial features inherent to many phenomena. The differential algebra approach to structural identifiability has recently been demonstrated to be applicable to several specific PDE models. In this brief article, we present general methodology for performing structural identifiability analysis on partially observed reaction-advection-diffusion (RAD) PDE models that are linear in the unobserved quantities. We show that the differential algebra approach can always, in theory, be applied to such models. Moreover, despite the perceived complexity introduced by the addition of advection and diffusion terms, identifiability of spatial analogues of non-spatial models cannot decrease in structural identifiability. We conclude by discussing future possibilities and the computational cost of performing structural identifiability analysis on more general PDE models."
+            },
+            "tags": [
+                {
+                    "term": "q-bio.QM",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "stat.ME",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "replace",
+            "rights": "http://creativecommons.org/licenses/by/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Alexander P Browning, Maria Tasc\\u{a}, Carles Falc\\'o, Ruth E Baker"
+                }
+            ],
+            "author": "Alexander P Browning, Maria Tasc\\u{a}, Carles Falc\\'o, Ruth E Baker",
+            "author_detail": {
+                "name": "Alexander P Browning, Maria Tasc\\u{a}, Carles Falc\\'o, Ruth E Baker"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2311.08339v3",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2311.08339",
+            "title": "Undesignable RNA Structure Identification via Rival Structure Generation and Structure Decomposition",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Undesignable RNA Structure Identification via Rival Structure Generation and Structure Decomposition"
+            },
+            "updated": "2024-02-28T05:07:50.330434+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2311.08339",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2311.08339v3 Announce Type: replace \nAbstract: RNA design is the search for a sequence or set of sequences that will fold into predefined structures, also known as the inverse problem of RNA folding. While numerous RNA design methods have been invented to find sequences capable of folding into a target structure, little attention has been given to the identification of undesignable structures according to the minimum free energy (MFE) criterion under the Turner model. In this paper, we address this gap by first introducing mathematical theorems outlining sufficient conditions for recognizing undesignable structures, then proposing efficient algorithms, guided by these theorems, to verify the undesignability of RNA structures. Through the application of these theorems and algorithms to the Eterna100 puzzles, we demonstrate the ability to efficiently establish that 15 of the puzzles indeed fall within the category of undesignable structures. In addition, we provide specific insights from the study of undesignability, in the hope that it will enable more understanding of RNA folding and RNA design.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2311.08339v3 Announce Type: replace \nAbstract: RNA design is the search for a sequence or set of sequences that will fold into predefined structures, also known as the inverse problem of RNA folding. While numerous RNA design methods have been invented to find sequences capable of folding into a target structure, little attention has been given to the identification of undesignable structures according to the minimum free energy (MFE) criterion under the Turner model. In this paper, we address this gap by first introducing mathematical theorems outlining sufficient conditions for recognizing undesignable structures, then proposing efficient algorithms, guided by these theorems, to verify the undesignability of RNA structures. Through the application of these theorems and algorithms to the Eterna100 puzzles, we demonstrate the ability to efficiently establish that 15 of the puzzles indeed fall within the category of undesignable structures. In addition, we provide specific insights from the study of undesignability, in the hope that it will enable more understanding of RNA folding and RNA design."
+            },
+            "tags": [
+                {
+                    "term": "q-bio.BM",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "replace",
+            "rights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Tianshuo Zhou, Wei Yu Tang, David H. Mathews, Liang Huang"
+                }
+            ],
+            "author": "Tianshuo Zhou, Wei Yu Tang, David H. Mathews, Liang Huang",
+            "author_detail": {
+                "name": "Tianshuo Zhou, Wei Yu Tang, David H. Mathews, Liang Huang"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2402.16185v2",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.16185",
+            "title": "Exploring gene content with pangenome gene graphs",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Exploring gene content with pangenome gene graphs"
+            },
+            "updated": "2024-02-28T05:07:50.330341+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.16185",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.16185v2 Announce Type: replace \nAbstract: Motivation: The gene content regulates the biology of an organism. It varies between species and between individuals of the same species. Although tools have been developed to identify gene content changes in bacterial genomes, none is applicable to collections of large eukaryotic genomes such as the human pangenome.\n  Results: We developed pangene, a computational tool to identify gene orientation, gene order and gene copy-number changes in a collection of genomes. Pangene aligns a set of input protein sequences to the genomes, resolves redundancies between protein sequences and constructs a gene graph with each genome represented as a walk in the graph. It additionally finds subgraphs that encodes gene content changes. Applied to the human pangenome, pangene identifies known gene-level variations and reveals complex haplotypes that are not well studied before. Pangene also works with high-quality bacterial pangenome and reports similar numbers of core and accessory genes in comparison to existing tools.\n  Availability and implementation: Source code at https://github.com/lh3/pangene; pre-built pangene graphs can be downloaded from https://zenodo.org/records/8118576 and visualized at https://pangene.bioinweb.org.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.16185v2 Announce Type: replace \nAbstract: Motivation: The gene content regulates the biology of an organism. It varies between species and between individuals of the same species. Although tools have been developed to identify gene content changes in bacterial genomes, none is applicable to collections of large eukaryotic genomes such as the human pangenome.\n  Results: We developed pangene, a computational tool to identify gene orientation, gene order and gene copy-number changes in a collection of genomes. Pangene aligns a set of input protein sequences to the genomes, resolves redundancies between protein sequences and constructs a gene graph with each genome represented as a walk in the graph. It additionally finds subgraphs that encodes gene content changes. Applied to the human pangenome, pangene identifies known gene-level variations and reveals complex haplotypes that are not well studied before. Pangene also works with high-quality bacterial pangenome and reports similar numbers of core and accessory genes in comparison to existing tools.\n  Availability and implementation: Source code at https://github.com/lh3/pangene; pre-built pangene graphs can be downloaded from https://zenodo.org/records/8118576 and visualized at https://pangene.bioinweb.org."
+            },
+            "tags": [
+                {
+                    "term": "q-bio.GN",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "replace",
+            "rights": "http://creativecommons.org/licenses/by/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Heng Li, Maximillian Marin, Maha Reda Farhat"
+                }
+            ],
+            "author": "Heng Li, Maximillian Marin, Maha Reda Farhat",
+            "author_detail": {
+                "name": "Heng Li, Maximillian Marin, Maha Reda Farhat"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2311.11897v4",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2311.11897",
+            "title": "Diffusion with two resetting points",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Diffusion with two resetting points"
+            },
+            "updated": "2024-02-28T05:07:50.330244+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2311.11897",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2311.11897v4 Announce Type: replace-cross \nAbstract: We study the problem of a target search by a Brownian particle subject to stochastic resetting to a pair of sites. The mean search time is minimized by an optimal resetting rate which does not vary smoothly, in contrast with the well-known single site case, but exhibits a discontinuous transition as the position of one resetting site is varied while keeping the initial position of the particle fixed, or vice-versa. The discontinuity vanishes at a \"liquid-gas\" critical point in position space. This critical point exists provided that the relative weight $m$ of the further site is comprised in the interval $[2.9028...,8.5603...]$. When the initial position follows the resetting point distribution, a discontinuous transition also exists for the optimal rate as the distance between the resetting points is varied, provided that $m$ exceeds the critical value $m_c=6.6008...$ This setup can be mapped onto an intermittent search problem with switching diffusion coefficients and represents a minimal model for the study of distributed resetting.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2311.11897v4 Announce Type: replace-cross \nAbstract: We study the problem of a target search by a Brownian particle subject to stochastic resetting to a pair of sites. The mean search time is minimized by an optimal resetting rate which does not vary smoothly, in contrast with the well-known single site case, but exhibits a discontinuous transition as the position of one resetting site is varied while keeping the initial position of the particle fixed, or vice-versa. The discontinuity vanishes at a \"liquid-gas\" critical point in position space. This critical point exists provided that the relative weight $m$ of the further site is comprised in the interval $[2.9028...,8.5603...]$. When the initial position follows the resetting point distribution, a discontinuous transition also exists for the optimal rate as the distance between the resetting points is varied, provided that $m$ exceeds the critical value $m_c=6.6008...$ This setup can be mapped onto an intermittent search problem with switching diffusion coefficients and represents a minimal model for the study of distributed resetting."
+            },
+            "tags": [
+                {
+                    "term": "cond-mat.stat-mech",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "q-bio.PE",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "replace-cross",
+            "rights": "http://creativecommons.org/licenses/by/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by/4.0/"
+            },
+            "arxiv_journal_reference": "Physical Review E 109, 024134 (2024)",
+            "arxiv_doi": "10.1103/PhysRevE.109.024134",
+            "authors": [
+                {
+                    "name": "Pedro Juli\\'an-Salgado, Leonardo Dagdug, Denis Boyer"
+                }
+            ],
+            "author": "Pedro Juli\\'an-Salgado, Leonardo Dagdug, Denis Boyer",
+            "author_detail": {
+                "name": "Pedro Juli\\'an-Salgado, Leonardo Dagdug, Denis Boyer"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2402.01481v3",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.01481",
+            "title": "Multi-level protein pre-training with Vabs-Net",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Multi-level protein pre-training with Vabs-Net"
+            },
+            "updated": "2024-02-28T05:07:50.330146+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.01481",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.01481v3 Announce Type: replace-cross \nAbstract: In recent years, there has been a surge in the development of 3D structure-based pre-trained protein models, representing a significant advancement over pre-trained protein language models in various downstream tasks. However, most existing structure-based pre-trained models primarily focus on the residue level, i.e., alpha carbon atoms, while ignoring other atoms like side chain atoms. We argue that modeling proteins at both residue and atom levels is important since the side chain atoms can also be crucial for numerous downstream tasks, for example, molecular docking. Nevertheless, we find that naively combining residue and atom information during pre-training typically fails. We identify a key reason is the information leakage caused by the inclusion of atom structure in the input, which renders residue-level pre-training tasks trivial and results in insufficiently expressive residue representations. To address this issue, we introduce a span mask pre-training strategy on 3D protein chains to learn meaningful representations of both residues and atoms. This leads to a simple yet effective approach to learning protein representation suitable for diverse downstream tasks. Extensive experimental results on binding site prediction and function prediction tasks demonstrate our proposed pre-training approach significantly outperforms other methods. Our code will be made public.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.01481v3 Announce Type: replace-cross \nAbstract: In recent years, there has been a surge in the development of 3D structure-based pre-trained protein models, representing a significant advancement over pre-trained protein language models in various downstream tasks. However, most existing structure-based pre-trained models primarily focus on the residue level, i.e., alpha carbon atoms, while ignoring other atoms like side chain atoms. We argue that modeling proteins at both residue and atom levels is important since the side chain atoms can also be crucial for numerous downstream tasks, for example, molecular docking. Nevertheless, we find that naively combining residue and atom information during pre-training typically fails. We identify a key reason is the information leakage caused by the inclusion of atom structure in the input, which renders residue-level pre-training tasks trivial and results in insufficiently expressive residue representations. To address this issue, we introduce a span mask pre-training strategy on 3D protein chains to learn meaningful representations of both residues and atoms. This leads to a simple yet effective approach to learning protein representation suitable for diverse downstream tasks. Extensive experimental results on binding site prediction and function prediction tasks demonstrate our proposed pre-training approach significantly outperforms other methods. Our code will be made public."
+            },
+            "tags": [
+                {
+                    "term": "cs.LG",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cs.AI",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "q-bio.BM",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "replace-cross",
+            "rights": "http://creativecommons.org/licenses/by/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Jiale Zhao, Wanru Zhuang, Jia Song, Yaqi Li, Shuqi Lu"
+                }
+            ],
+            "author": "Jiale Zhao, Wanru Zhuang, Jia Song, Yaqi Li, Shuqi Lu",
+            "author_detail": {
+                "name": "Jiale Zhao, Wanru Zhuang, Jia Song, Yaqi Li, Shuqi Lu"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2402.16359v2",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.16359",
+            "title": "Feedback Efficient Online Fine-Tuning of Diffusion Models",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Feedback Efficient Online Fine-Tuning of Diffusion Models"
+            },
+            "updated": "2024-02-28T05:07:50.330018+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.16359",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.16359v2 Announce Type: replace-cross \nAbstract: Diffusion models excel at modeling complex data distributions, including those of images, proteins, and small molecules. However, in many cases, our goal is to model parts of the distribution that maximize certain properties: for example, we may want to generate images with high aesthetic quality, or molecules with high bioactivity. It is natural to frame this as a reinforcement learning (RL) problem, in which the objective is to fine-tune a diffusion model to maximize a reward function that corresponds to some property. Even with access to online queries of the ground-truth reward function, efficiently discovering high-reward samples can be challenging: they might have a low probability in the initial distribution, and there might be many infeasible samples that do not even have a well-defined reward (e.g., unnatural images or physically impossible molecules). In this work, we propose a novel reinforcement learning procedure that efficiently explores on the manifold of feasible samples. We present a theoretical analysis providing a regret guarantee, as well as empirical validation across three domains: images, biological sequences, and molecules.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.16359v2 Announce Type: replace-cross \nAbstract: Diffusion models excel at modeling complex data distributions, including those of images, proteins, and small molecules. However, in many cases, our goal is to model parts of the distribution that maximize certain properties: for example, we may want to generate images with high aesthetic quality, or molecules with high bioactivity. It is natural to frame this as a reinforcement learning (RL) problem, in which the objective is to fine-tune a diffusion model to maximize a reward function that corresponds to some property. Even with access to online queries of the ground-truth reward function, efficiently discovering high-reward samples can be challenging: they might have a low probability in the initial distribution, and there might be many infeasible samples that do not even have a well-defined reward (e.g., unnatural images or physically impossible molecules). In this work, we propose a novel reinforcement learning procedure that efficiently explores on the manifold of feasible samples. We present a theoretical analysis providing a regret guarantee, as well as empirical validation across three domains: images, biological sequences, and molecules."
+            },
+            "tags": [
+                {
+                    "term": "cs.LG",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "cs.AI",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "q-bio.QM",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "stat.ML",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "replace-cross",
+            "rights": "http://creativecommons.org/licenses/by/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "Masatoshi Uehara, Yulai Zhao, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Sergey Levine, Tommaso Biancalani"
+                }
+            ],
+            "author": "Masatoshi Uehara, Yulai Zhao, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Sergey Levine, Tommaso Biancalani",
+            "author_detail": {
+                "name": "Masatoshi Uehara, Yulai Zhao, Kevin Black, Ehsan Hajiramezanali, Gabriele Scalia, Nathaniel Lee Diamant, Alex M Tseng, Sergey Levine, Tommaso Biancalani"
+            }
+        },
+        {
+            "id": "oai:arXiv.org:2402.16711v2",
+            "guidislink": true,
+            "link": "https://arxiv.org/abs/2402.16711",
+            "title": "Action potential propagation properties of a reduced Hodgkin-Huxley type model with ATP Na-K pumps",
+            "title_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "Action potential propagation properties of a reduced Hodgkin-Huxley type model with ATP Na-K pumps"
+            },
+            "updated": "2024-02-28T05:07:50.329756+00:00",
+            "updated_parsed": [
+                2024,
+                2,
+                28,
+                5,
+                7,
+                50,
+                2,
+                59,
+                0
+            ],
+            "links": [
+                {
+                    "href": "https://arxiv.org/abs/2402.16711",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "summary": "arXiv:2402.16711v2 Announce Type: replace-cross \nAbstract: We explore the relationship between the sodium and potassium gating variables in the Hodgkin-Huxley electrophysiology model showing that the transport of sodium and potassium are intrinsically related and may be associated with the ubiquitous ATPase mechanism responsible for energy transport to cells. This reduces the dimension of the original 4-dimensional HH model, decreasing the complexity of the model equations. With a new reduced 2-dimensional HH-type model equations, we have derived the main properties of the propagation speed and width of action potentials for axons with the ATP Na-K pumps as a function of the transmembrane capacity $C_m$ and resistivity $R$ of the gap junctions connecting the Schwann cells of the axon. We show that the action potential propagates along the axon with speed well described by $v(R, C_m)=\\alpha /({C_m R^{\\beta}})$, where $\\alpha $ and $\\beta <1$ are constants independent of the intensity stimulus of the soma. If a current stimulus is introduced at the axon, away from the soma and with an intensity above threshold, two action potential signals propagate in opposite directions of the axon, annihilating the action potential arriving from the soma.",
+            "summary_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "arXiv:2402.16711v2 Announce Type: replace-cross \nAbstract: We explore the relationship between the sodium and potassium gating variables in the Hodgkin-Huxley electrophysiology model showing that the transport of sodium and potassium are intrinsically related and may be associated with the ubiquitous ATPase mechanism responsible for energy transport to cells. This reduces the dimension of the original 4-dimensional HH model, decreasing the complexity of the model equations. With a new reduced 2-dimensional HH-type model equations, we have derived the main properties of the propagation speed and width of action potentials for axons with the ATP Na-K pumps as a function of the transmembrane capacity $C_m$ and resistivity $R$ of the gap junctions connecting the Schwann cells of the axon. We show that the action potential propagates along the axon with speed well described by $v(R, C_m)=\\alpha /({C_m R^{\\beta}})$, where $\\alpha $ and $\\beta <1$ are constants independent of the intensity stimulus of the soma. If a current stimulus is introduced at the axon, away from the soma and with an intensity above threshold, two action potential signals propagate in opposite directions of the axon, annihilating the action potential arriving from the soma."
+            },
+            "tags": [
+                {
+                    "term": "physics.bio-ph",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "q-bio.NC",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "arxiv_announce_type": "replace-cross",
+            "rights": "http://creativecommons.org/licenses/by/4.0/",
+            "rights_detail": {
+                "type": "text/plain",
+                "language": "en-us",
+                "base": "https://rss.arxiv.org/atom/q-bio",
+                "value": "http://creativecommons.org/licenses/by/4.0/"
+            },
+            "authors": [
+                {
+                    "name": "L\\'izia Branco, Rui Dil\\~ao"
+                }
+            ],
+            "author": "L\\'izia Branco, Rui Dil\\~ao",
+            "author_detail": {
+                "name": "L\\'izia Branco, Rui Dil\\~ao"
+            }
+        }
+    ],
+    "feed": {
+        "language": "en-us",
+        "id": "http://rss.arxiv.org/atom/q-bio",
+        "guidislink": true,
+        "link": "http://rss.arxiv.org/atom/q-bio",
+        "title": "q-bio updates on arXiv.org",
+        "title_detail": {
+            "type": "text/plain",
+            "language": "en-us",
+            "base": "https://rss.arxiv.org/atom/q-bio",
+            "value": "q-bio updates on arXiv.org"
+        },
+        "updated": "2024-02-28T05:07:50.329661+00:00",
+        "updated_parsed": [
+            2024,
+            2,
+            28,
+            5,
+            7,
+            50,
+            2,
+            59,
+            0
+        ],
+        "links": [
+            {
+                "href": "http://rss.arxiv.org/atom/q-bio",
+                "rel": "self",
+                "type": "application/atom+xml"
+            }
+        ],
+        "subtitle": "q-bio updates on the arXiv.org e-print archive.",
+        "subtitle_detail": {
+            "type": "text/plain",
+            "language": "en-us",
+            "base": "https://rss.arxiv.org/atom/q-bio",
+            "value": "q-bio updates on the arXiv.org e-print archive."
+        }
+    },
+    "headers": {
+        "connection": "close",
+        "content-length": "56996",
+        "content-type": "application/atom+xml",
+        "etag": "755021de777b68b84986c05cd5058d84a90f83bd760b819e78e57db5c97ac92c",
+        "cache-control": "max-age=85929",
+        "x-cloud-trace-context": "8d88894eee7c95818a6e4660e566d05b;o=1",
+        "server": "Google Frontend",
+        "via": "1.1 google, 1.1 google, 1.1 varnish, 1.1 varnish",
+        "accept-ranges": "bytes",
+        "date": "Wed, 28 Feb 2024 05:21:06 GMT",
+        "age": "796",
+        "x-served-by": "cache-lga21951-LGA, cache-den8237-DEN",
+        "x-cache": "HIT, MISS",
+        "x-cache-hits": "1, 0",
+        "x-timer": "S1709097666.037833,VS0,VE56",
+        "strict-transport-security": "max-age=300"
+    },
+    "etag": "755021de777b68b84986c05cd5058d84a90f83bd760b819e78e57db5c97ac92c",
+    "href": "https://rss.arxiv.org/atom/q-bio",
+    "status": 301,
+    "encoding": "utf-8",
+    "version": "atom10",
+    "namespaces": {
+        "arxiv": "http://arxiv.org/schemas/atom",
+        "dc": "http://purl.org/dc/elements/1.1/",
+        "": "http://www.w3.org/2005/Atom"
+    }
+}
